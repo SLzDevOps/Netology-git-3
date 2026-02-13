@@ -7,8 +7,11 @@
 ## Ссылка на ДЗ - https://github.com/SLzDevOps/Netology-git-3/blob/main/README.md
   
 ## Ссылка на репозиторий - https://github.com/SLzDevOps/Netology-git-3
+  
+## Ссылка на network - https://github.com/SLzDevOps/Netology-git-3/network
 
 
+  
    
 Задание показалось простым - почти все кооманды даны, но переделывал его 7 раз, видно что то упускал...
    
