@@ -1,10 +1,10 @@
 # Домашнее задание к занятию «Ветвления в Git» - `Фомичев Анатолий`
   
    
-## Ссылка на ДЗ - https://github.com/netology-code/sysadm-homeworks/tree/devsys10/02-git-03-branching
+## Ссылка на задание - https://github.com/netology-code/sysadm-homeworks/tree/devsys10/02-git-03-branching
   
   
-## Ссылка на ДЗ - https://github.com/SLzDevOps/Netology-git-3/blob/main/README.md
+## Ссылка на ДЗ (README.md) - https://github.com/SLzDevOps/Netology-git-3/blob/main/README.md
   
 ## Ссылка на репозиторий - https://github.com/SLzDevOps/Netology-git-3
   
